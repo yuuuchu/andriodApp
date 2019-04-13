@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TravelExpertsMobile</string>
+    <string name="login">login</string>
+
+    <string name="password">Password</string>
+    <string name="enter_in_email">Enter in email</string>
+    <string name="enter_in_password">Enter in password</string>
+    <string name="email">Email</string>
+    <string name="travel_experts">Travel Experts</string>
+    <string name="bookings">Bookings</string>
+    <string name="travel_packages">Travel Packages</string>
+    <string name="personal_info">Personal Info</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="my_header_title">My header title</string>
+
+
+    <string name="main_page">Main Page</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="john_apple">John Apple</string>
+    <string name="sign_in">Sign In</string>
+    <string name="usericon">UserIcon</string>
+</resources>

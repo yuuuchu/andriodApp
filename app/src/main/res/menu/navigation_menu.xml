@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_bookings"
+        android:icon="@mipmap/round_card_travel_black_24dp"
+        android:title="Current Bookings" />
+
+    <item android:id="@+id/nav_packages"
+        android:icon="@mipmap/round_beach_access_black_24dp"
+        android:title="Book Travel"/>
+
+    <item android:id="@+id/nav_account"
+        android:icon="@mipmap/round_account_box_black_24dp"
+        android:title="My Account"/>
+
+    <item android:id="@+id/nav_settings"
+        android:icon="@mipmap/round_settings_black_24dp"
+        android:title="Settings"/>
+
+    <item android:id="@+id/nav_logout"
+        android:icon="@mipmap/round_power_settings_new_black_24dp"
+        android:title="Log Out"/>
+
+</menu>
