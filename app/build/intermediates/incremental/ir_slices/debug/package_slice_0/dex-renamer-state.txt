@@ -1,0 +1,4 @@
+#Fri Apr 12 20:24:24 MDT 2019
+base.0=/Users/devops/AndroidStudioProjects/TravelExpertsMobile/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
